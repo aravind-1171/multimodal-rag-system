@@ -1,0 +1,13 @@
+venv/
+.env
+__pycache__/
+uploaded_docs/
+models/
+lambda_package/
+lambda_function.zip
+*.pkl
+*.bin
+*.npy
+test_image.png
+sample.csv
+test.txt

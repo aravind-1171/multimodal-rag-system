@@ -1,0 +1,9 @@
+RAG stands for Retrieval Augmented Generation. It is a technique that combines information retrieval with language generation. RAG works by first retrieving relevant documents from a knowledge base, then using those documents as context to generate accurate answers.
+
+FAISS is a library developed by Facebook AI for efficient similarity search. It stores vector embeddings and retrieves the most similar ones given a query vector.
+
+LangChain is a framework for building applications powered by large language models. It provides tools for chaining LLM calls, managing prompts, and building RAG pipelines.
+
+Amazon Bedrock is a fully managed service that provides access to foundation models from leading AI companies through a single API. It supports models from Anthropic, Meta, Amazon, and others.
+
+Python is a popular programming language widely used in data science, machine learning, and artificial intelligence applications.
